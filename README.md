@@ -1,5 +1,4 @@
-# gelly-studio-nav
-# Gelly-Studio Navigation System
+# gelly-studio-nav（Gelly-Studio Navigation System）
 
 一个基于 Cloudflare Pages + Functions + KV 构建的极简主义个人导航系统。
 前台采用现代无衬线、暗黑磨砂玻璃视觉（摒弃大圆角和无意义的渐变），纯网页端可视化管理，不依赖外部服务器，完全免费。
